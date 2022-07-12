@@ -1,4 +1,4 @@
-data: [
+
 "ATest": [
 {
 "utterance": "testing herer",
@@ -280,5 +280,5 @@ data: [
 "id": 128328
 }
 ]
-]
-}
+
+
