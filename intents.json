@@ -1,0 +1,283 @@
+{
+"ATest": [
+{
+"utterance": "testing herer",
+"language_code": "en-US",
+"id": 169832
+},
+{
+"utterance": "test utterance",
+"language_code": "en-US",
+"id": 169833
+},
+{
+"utterance": "test utterance 2",
+"language_code": "en-US",
+"id": 169847
+},
+{
+"utterance": "test utterance 3",
+"language_code": "en-US",
+"id": 172507
+},
+{
+"utterance": "test utterance 4",
+"language_code": "en-US",
+"id": 172508
+},
+{
+"utterance": "test utterance 6",
+"language_code": "en-US",
+"id": 172509
+}
+],
+"ATest2": [
+{
+"utterance": "asdad",
+"language_code": "en-US",
+"id": 169838
+},
+{
+"utterance": "fsdfafaf new utterance",
+"language_code": "en-US",
+"id": 169836
+},
+{
+"utterance": "hello",
+"language_code": "en-US",
+"id": 169841
+},
+{
+"utterance": "new2",
+"language_code": "en-US",
+"id": 169839
+},
+{
+"utterance": "new3",
+"language_code": "en-US",
+"id": 169840
+},
+{
+"utterance": "test2",
+"language_code": "en-US",
+"id": 169837
+},
+{
+"utterance": "test utterance rerender",
+"language_code": "en-US",
+"id": 169834
+},
+{
+"utterance": "test utterance rerender 2",
+"language_code": "en-US",
+"id": 169835
+}
+],
+"isAlreadyReturned": [
+{
+"utterance": "lo envió de vuelta con la etiqueta proporcionada por AT&T",
+"language_code": "es-US",
+"id": 128072
+},
+{
+"utterance": "It was returned.",
+"language_code": "en-US",
+"id": 128338
+},
+{
+"utterance": "the technician took the old box",
+"language_code": "en-US",
+"id": 128250
+},
+{
+"utterance": "It's on its way back. I shipped it with the link. You provided actually.",
+"language_code": "en-US",
+"id": 128336
+},
+{
+"utterance": "I handed it to FedEx on Thursday",
+"language_code": "en-US",
+"id": 128248
+},
+{
+"utterance": "el técnico tomó la caja vieja",
+"language_code": "es-US",
+"id": 128043
+},
+{
+"utterance": "i sent it in a while ago",
+"language_code": "en-US",
+"id": 128332
+},
+{
+"utterance": "we've already sent it in",
+"language_code": "en-US",
+"id": 128345
+},
+{
+"utterance": "we returned it before",
+"language_code": "en-US",
+"id": 128344
+},
+{
+"utterance": "i did that last week",
+"language_code": "en-US",
+"id": 128324
+},
+{
+"utterance": "i think she returned it",
+"language_code": "en-US",
+"id": 128334
+},
+{
+"utterance": "I have tracking",
+"language_code": "en-US",
+"id": 128367
+},
+{
+"utterance": "i sent it in with the return kit",
+"language_code": "en-US",
+"id": 128333
+},
+{
+"utterance": "lo devolvimos antes.",
+"language_code": "es-US",
+"id": 128284
+},
+{
+"utterance": "Tenía una etiqueta, así que la envié.",
+"language_code": "es-US",
+"id": 128123
+},
+{
+"utterance": "i sent it back with the label you gave me",
+"language_code": "en-US",
+"id": 128171
+},
+{
+"utterance": "I have earthlink, so I'm not sure why you're calling about AT&T. I returned the equipment to them last Wednesday.",
+"language_code": "en-US",
+"id": 128326
+},
+{
+"utterance": "i think the label",
+"language_code": "en-US",
+"id": 128174
+},
+{
+"utterance": "sent it back with the label provided by AT&T",
+"language_code": "en-US",
+"id": 128179
+},
+{
+"utterance": "we already sent it in",
+"language_code": "en-US",
+"id": 128343
+},
+{
+"utterance": "I have new equipment installed and the technician took the old box.",
+"language_code": "en-US",
+"id": 128249
+},
+{
+"utterance": "ya fue devuelto",
+"language_code": "es-US",
+"id": 128299
+},
+{
+"utterance": "i used the return kit",
+"language_code": "en-US",
+"id": 128341
+},
+{
+"utterance": "just used the label",
+"language_code": "en-US",
+"id": 128177
+},
+{
+"utterance": "Creo que la etiqueta",
+"language_code": "es-US",
+"id": 128039
+},
+{
+"utterance": "i think i had the label",
+"language_code": "en-US",
+"id": 128173
+},
+{
+"utterance": "acaba de usar la etiqueta",
+"language_code": "es-US",
+"id": 128034
+},
+{
+"utterance": "Ya lo hemos enviado.",
+"language_code": "es-US",
+"id": 128302
+},
+{
+"utterance": "tenía la etiqueta conmigo tan usada que",
+"language_code": "es-US",
+"id": 128119
+},
+{
+"utterance": "Ya devolví el equipo.",
+"language_code": "es-US",
+"id": 128298
+},
+{
+"utterance": "I had the label",
+"language_code": "en-US",
+"id": 128169
+},
+{
+"utterance": "Lo envié hace un tiempo.",
+"language_code": "es-US",
+"id": 128287
+},
+{
+"utterance": "I returned it last week",
+"language_code": "en-US",
+"id": 128327
+},
+{
+"utterance": "Ya he devuelto el equipo.",
+"language_code": "es-US",
+"id": 128300
+},
+{
+"utterance": "¿Por qué lo entregué a FedEx el jueves?",
+"language_code": "es-US",
+"id": 128294
+},
+{
+"utterance": "I handed it to FedEx on Thursday.",
+"language_code": "en-US",
+"id": 128235
+},
+{
+"utterance": "just put the label on it",
+"language_code": "en-US",
+"id": 128176
+},
+{
+"utterance": "Usé la etiqueta de AT&T",
+"language_code": "es-US",
+"id": 128128
+},
+{
+"utterance": "Acabo de usar la etiqueta.",
+"language_code": "es-US",
+"id": 128035
+},
+{
+"utterance": "fue enviado con UPS",
+"language_code": "es-US",
+"id": 128281
+},
+{
+"utterance": "i returned it through DHL",
+"language_code": "en-US",
+"id": 128328
+}
+]
+}
